@@ -1,0 +1,56 @@
+[
+    {
+        "id":1,
+        "name":"Magical Kingdom of Dreams",
+        "title":"The Enchanted Adventure of the Brave Little Girl Who Discovered the Secret Doorway to the Magical Kingdom of Dreams",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717783011~exp=1717786611~hmac=fe30bae9ac3ca6067cd87833f2f4599a798cddab29b46ee33895a4a3671b887e&w=740"
+    },
+
+    {
+        "id":2,
+        "name":"Mystery at the Castle",
+        "title":"The Mystery at the Castle Where Shadows Whisper and Secrets Linger in the Halls of Time",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717783011~exp=1717786611~hmac=fe30bae9ac3ca6067cd87833f2f4599a798cddab29b46ee33895a4a3671b887e&w=740"
+    },
+
+    {
+        "id":3,
+        "name":"Whispers in the Woods",
+        "title":"The Tale of a Young Explorer and the Enchanted Forest’s Hidden Secrets",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717783011~exp=1717786611~hmac=fe30bae9ac3ca6067cd87833f2f4599a798cddab29b46ee33895a4a3671b887e&w=740"
+    },
+    
+    {
+        "id":4,
+        "name":"Adventures in Dreamland",
+        "title":"A Nightly Escape to a World Where Dreams Come Alive and Fantasies Have No Boundaries",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717783011~exp=1717786611~hmac=fe30bae9ac3ca6067cd87833f2f4599a798cddab29b46ee33895a4a3671b887e&w=740"
+    },
+
+    {
+        "id":5,
+        "name":"The Sorcerer's Spell",
+        "title":"A Young Apprentice's Journey to Break the Enchantment and Save the Kingdom",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717783011~exp=1717786611~hmac=fe30bae9ac3ca6067cd87833f2f4599a798cddab29b46ee33895a4a3671b887e&w=740"
+    },
+
+    {
+        "id":6,
+        "name":"Phantom of the Forest",
+        "title":"A Haunting Tale of Ghostly Encounters and Hidden Secrets in the Whispering Woods",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717783011~exp=1717786611~hmac=fe30bae9ac3ca6067cd87833f2f4599a798cddab29b46ee33895a4a3671b887e&w=740"
+    }
+    
+]
